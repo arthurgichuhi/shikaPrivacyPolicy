@@ -1,4 +1,4 @@
-#shika-privacy-policy
+**#shika-privacy-policy**
 **Privacy Policy**
 ###Introduction
 Our privacy policy will help you understand what information we collect at Shika, how Shika uses it, and what choices you have. Shika is provided at no cost and is intended for use as is. 
