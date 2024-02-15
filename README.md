@@ -17,7 +17,8 @@ Types of data AdMob collects:
 Device and app information: This includes device model, operating system version, app version, IP address (used for approximate location), and unique identifiers.
 User interactions: This includes ad impressions, clicks, taps, and video views within your app.
 Non-personally identifiable information (PII): This may include age, gender, and interests inferred from app usage, but not directly identifiable information like name or email address.
-How AdMob uses the data:
+
+#### How AdMob uses the data:
 
 To show relevant ads: The data helps AdMob personalize ads based on user interests and app activity.
 To measure ad performance: AdMob tracks ad impressions and clicks to understand how effective ads are.
