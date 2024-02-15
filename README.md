@@ -26,15 +26,7 @@ Third-party involvement:
 
 AdMob may share some data with third-party ad networks to show more relevant ads.
 AdMob also complies with relevant data privacy laws and regulations.
-It's crucial to follow these additional steps:
-
-Review Google's data safety section: This section explains exactly what data AdMob collects and how it's used. You can find it here: https://developer.android.com/games/pgs/data-collection
-Complete the Data safety section in your Google Play listing: This disclosure is mandatory and informs users about your app's data practices.
-Create a privacy policy for your app: This policy should explain how you collect, use, and share user data, including data from AdMob.
-Here are some resources to help you create your privacy policy:
-
-Google's Privacy Policy Generator: https://app-privacy-policy-generator.firebaseapp.com/
-App Privacy Policy Templates: https://www.iubenda.com/en/help/147125-app-privacy-policy-what-you-need-to-know-examples
+This section explains exactly what data AdMob collects and how it's used. You can find it here: https://developer.android.com/games/pgs/data-collection
 
 ### Cookies
 Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.
