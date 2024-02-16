@@ -11,21 +11,33 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 ### Information Collection and Use
 Shika game application does not collect or save any personal information.
 
-### Third-Party Advertising and Data Collection
-Types of data AdMob collects:
+#### Through Google Play Games:
+Authentication information: We may access your user ID, display name, and profile picture from Google Play Games to identify you and display your information on leaderboards and achievements.
+Gameplay activity: We may access your gameplay activity, progress, and achievements to display them on leaderboards and track your progress within the game.
+Additional data: Depending on your settings and how you use the game, Google Play Games may collect additional data about your gameplay, which we may access with your consent.
 
-Device and app information: This includes device model, operating system version, app version, IP address (used for approximate location), and unique identifiers.
-User interactions: This includes ad impressions, clicks, taps, and video views within your app.
-Non-personally identifiable information (PII): This may include age, gender, and interests inferred from app usage, but not directly identifiable information like name or email address.
+#### Through AdMob:
+Device information: We may collect non-personally identifiable information about your device, such as model, operating system, and network connection, to optimize ad delivery and improve the overall user experience.
+Ad interactions: We may collect information about your interactions with ads, such as which ads you see and click on, to serve you more relevant ads and measure advertising performance.
 
-#### How AdMob uses the data:
+#### How We Use Your Information:
+Provide and improve the game experience: We use your information to operate and improve the game, including for displaying leaderboards, tracking achievements, and personalizing your gameplay experience.
+Serve targeted ads: We may use your information, in accordance with applicable laws and regulations, to show you more relevant and personalized ads in exchange for in-game rewards.
+Analyze game performance: We use your information to analyze game performance, identify and fix bugs, and improve the overall quality of the game.
+Comply with legal obligations: We may use your information to comply with legal requirements or respond to law enforcement requests.
+Sharing Your Information:
 
-To show relevant ads: The data helps AdMob personalize ads based on user interests and app activity.
-To measure ad performance: AdMob tracks ad impressions and clicks to understand how effective ads are.
-To prevent fraud: The data helps identify and prevent fraudulent activity in the ad network.
-Third-party involvement:
+Google Play Games: We may share your information with Google Play Games as necessary to operate the game and use its features. You can review and manage your data sharing settings in Google Play Games.
+Service providers: We may share your information with third-party service providers who help us operate the game, such as analytics providers and cloud storage providers. These providers are obligated to protect your information and use it only as instructed by us.
+Other disclosures: We may disclose your information as required by law or to protect our rights and interests, such as in response to a legal subpoena or court order.
+Your Choices:
 
-AdMob may share some data with third-party ad networks to show more relevant ads.
+Leaderboards and achievements: You can control your data sharing for leaderboards and achievements in your Google Play Games settings.
+Targeted advertising: You can opt out of personalized advertising based on your device identifiers in your device settings.
+Data deletion: You can request deletion of your personal information by contacting us at [Your Email Address].
+Data Security:
+
+We take reasonable measures to protect your information from unauthorized access, use, disclosure, alteration, or destruction. However, no internet or electronic transmission is completely secure, so we cannot guarantee the absolute security of your information.
 
 ### Cookies
 Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.
